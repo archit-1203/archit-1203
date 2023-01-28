@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archit-1203" alt="archit-1203" /></a> </p>
 
+<br>
+<a href="https://github.com/archit-1203/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=archit-1203">
+
 
 <h3 align="left">We can connect over at:</h3>
 <p align="left">

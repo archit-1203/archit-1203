@@ -3,11 +3,11 @@
 
 #### -🔭 On my GitHub page, you can find all the projects that I have worked on.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archit-1203" alt="archit-1203" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archit1203" alt="archit1203" /></a> </p>
 
 <br>
 <a href="https://github.com/archit-1203/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=archit-1203">
+    <img src="https://komarev.com/ghpvc/?username=archit1203">
 
 
 <h3 align="left">We can connect over at:</h3>
@@ -18,11 +18,11 @@
 
 ## &#x1f4c8; My Streak
 
-<!-- [![Archit's activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=archit-1203)](https://github.com/archit-1203/github-readme-activity-graph) -->
+<!-- [![Archit's activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=archit1203)](https://github.com/archit1203/github-readme-activity-graph) -->
 
-<span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=archit-1203&" alt="mycin-ai-club" /></span>
+<span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=archit1203&" alt="archit1203" /></span>
 
-<span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=archit-1203&show_icons=true&locale=en&layout=compact" alt="archit-1203" /></span>
+<span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=archit1203&show_icons=true&locale=en&layout=compact" alt="archit1203" /></span>
 
-<span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=archit-1203&show_icons=true&locale=en" alt="archit-1203" /></span>
+<span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=archit1203&show_icons=true&locale=en" alt="archit1203" /></span>
 <br>

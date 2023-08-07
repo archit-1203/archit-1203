@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I am Archit R Srivastava</h1>
-<h3 align="center">Computer Science Junior from India</h3>
+<h3 align="center">Computer Science Senior from India</h3>
 
 #### -🔭 On my GitHub page, you can find all the projects that I have worked on.
+#### -😃 Here is my website -> <a href="https://archit1203.github.io/e-Portfolio/"> Click </a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archit1203" alt="archit1203" /></a> </p>
 
